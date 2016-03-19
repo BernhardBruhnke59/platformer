@@ -4,7 +4,7 @@
 
 ### Setup
 
-1. Fork this repository on GitHub.
+1. Fork this repository on GitHub by clicking the **Fork** button at the top right of this repository webpage.
 2. Clone the project into a Cloud9 workspace.
 3. From the `bash` terminal in the console view, cut and paste the following command:
     
@@ -55,7 +55,7 @@ After you've designed your level, run (cut and paste) the three following comman
     
 2. Commit your changeset:
     
-        git commit -m"create awesome plateformer game"
+        git commit -m"create awesome platformer game"
     
 3. Push your changeset to your GitHub forked repository:
     
