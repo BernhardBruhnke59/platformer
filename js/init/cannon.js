@@ -13,10 +13,10 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        cannon.create.onTop(450);
-        cannon.create.onBottom(200);
-        cannon.create.onLeft(320, 500);
-        cannon.create.onRight(380);
+        // example: 
+        //cannon.create.onTop(450);
+        
+        
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////

@@ -34,10 +34,10 @@
         ////////////////////////////////////////////////////////////////////////
         // ALL YOUR CODE GOES BELOW HERE ///////////////////////////////////////
         
-        collectable.create(type.steve, 200, 170, 6, 0.7);
-        collectable.create(type.max, 500, 380, 6, 0.7);
-        collectable.create(type.grace, 300, 500, 6, 0.7);
-        collectable.create(type.kennedi, 600, 500, 6, 0.7);
+        // example: 
+        //collectable.create(type.steve, 200, 170, 6, 0.7);
+        
+        
         
         // ALL YOUR CODE GOES ABOVE HERE ///////////////////////////////////////
         ////////////////////////////////////////////////////////////////////////
